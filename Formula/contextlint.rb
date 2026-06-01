@@ -1,8 +1,8 @@
 class Contextlint < Formula
   desc "Lint, score, and compress AI agent context files"
   homepage "https://github.com/arsyadal/contextlint"
-  url "https://github.com/arsyadal/contextlint/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "1333a18e94e6aebf15f9da2d4a8a45c2714f795c90bade27bcc6f9482b0b02e5"
+  url "https://github.com/arsyadal/contextlint/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "f9ea529193f5904decad2979123a9d250e300033a0e98ae663566b69875e2dab"
   license "MIT"
 
   depends_on "rust" => :build
